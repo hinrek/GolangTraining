@@ -10,5 +10,6 @@ func factorial(x int) int {
 }
 
 func main() {
+	// 4 * 3 * 2 * 1 * 1
 	fmt.Println(factorial(4))
 }
